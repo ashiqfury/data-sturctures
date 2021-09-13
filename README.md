@@ -22,3 +22,5 @@ A simple reference list of data structures using c language
   <li>To compile, type this: <strong><pre><code>gcc &lt;filename.c&gt; -o &lt;filename&gt;</pre></code></strong></li>
   <li>To run, type this: <strong><pre><code>gcc &lt;filename.exe&gt;</pre></code></strong></li>
  </ul>
+
+<p>Documented by Ashiq Fury<a href="https://github.com/ashiqfury">@ashiqfury</a></p>
